@@ -29,6 +29,7 @@ Make sure you have the following installed:<br>
 
 **Installation Steps**<br>
 1)Clone this repository:<br>
+  https://github.com/PiyushBhadane55/Steganography.git<br>
 2)Install dependencies:<br>
   pip install opencv-python<br>
 3)Run the program:<br>
