@@ -4,8 +4,8 @@
 This project implements image steganography using Tkinter for the GUI and OpenCV for image processing. It allows users to hide and retrieve secret messages within an image using a passcode-based encryption system.
 
 **Features**
-1)Passcode-Based Encryption – Adds security to hidden messages.
-2)Pixel-Based Encoding – Hides text within the BGR channels of an image.
+1)Passcode-Based Encryption – Adds security to hidden messages.<br>
+2)Pixel-Based Encoding – Hides text within the BGR channels of an image.<br>
 3)User-Friendly GUI – Built with Tkinter for easy interaction.
 4)Multi-Channel Steganography – Distributes data across different color channels.
 5)Cross-Platform Compatibility – Works on Windows, Linux, and macOS.
